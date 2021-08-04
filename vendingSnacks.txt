@@ -1,0 +1,25 @@
+Coke Zero,10c
+Sprite Zero,20c
+Fresca,10$
+Diet Mellow Yellow,20$
+Diet Dr. Pepper (also Cherry Vanilla),50c
+Ocean Spray(Diet Sparkling Cranberry, 10c
+Diet Blueberry,50c
+ and Diet Cran-Pomegranate),20$
+Rockstar Zero Carb,50$
+Rockstar Pink,10c
+Berries,10c
+Grapes,10c
+Baby Carrots,50$
+Celery Sticks,20$
+Grape,1$
+Honey Toasted 7-Grain,1$
+Pumpkin Spice Flax,10c
+Roasted Almond Crunch,20c
+Raisins,50c
+Apricots,1$
+Pitted Plums,20$
+Fruit Bits,50$
+Apples,20c
+Chips (Sea Salt),50c
+Stacy's Pita & Bagel Chips,10c
